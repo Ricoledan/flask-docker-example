@@ -1,5 +1,7 @@
 # flask-docker-example
 
+🐍 example code for a containerized Flask Application using Docker
+
 create venv
 `py -m venv env`
 
